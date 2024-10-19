@@ -1,0 +1,41 @@
+p {
+    
+    color:darkblue ;
+    font-weight: bold;
+}
+
+h1 {
+    color: orange;
+}
+
+#big {
+    font-size: 2.5rem;
+}
+
+h3 {
+    background-color: bisque;
+    color:green;
+}
+.coolstyles{
+
+    background-color: bisque;
+    color:green;
+}
+
+#featureheading{
+    text-decoration: underline;
+}
+
+li:nth-child(3n-1){
+    background-color: darksalmon;
+}
+
+div > img {
+    width: 50vw; 
+    }
+
+div {
+
+    width: 70%;
+    border: 2px solid red;
+}
